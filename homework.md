@@ -266,4 +266,6 @@ marvel=# SELECT * FROM movies;
 
 ## Extension
 
-1.  Research how to delete multiple entries from your table in a single command.
+1.  Research how to delete multiple entries from your table in a single command
+
+Use DELETE but after WHERE use multiple ids or another condition eg id >= 80
